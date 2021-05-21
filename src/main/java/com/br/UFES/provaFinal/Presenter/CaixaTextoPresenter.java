@@ -28,6 +28,11 @@ public class CaixaTextoPresenter {
         }
     }
     
+    public void fechar(){
+        this.tela.dispose();
+
+    }
+    
     
     
 }

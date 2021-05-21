@@ -27,6 +27,7 @@ public class PrincipalPresenter {
         addPalavrasProibidas("facebook");
         addPalavrasProibidas("google");
         this.adicionarListend();
+        this.tela.setTitle("Removedor de nome de empresas (marcas)");
         this.tela.setVisible(true);
     }
     
